@@ -1,6 +1,6 @@
 {
   "name": "jp.monry.upm-upgrade-test",
-  "version": "0.0.1-preview.1",
+  "version": "0.0.1-preview.2",
   "displayName": "Upgrade Test",
   "description": "Test package for upgrade test",
   "unity": "2020.1",

@@ -1,0 +1,15 @@
+{
+  "name": "jp.monry.upm-upgrade-test",
+  "version": "0.0.1-preview.1",
+  "displayName": "Upgrade Test",
+  "description": "Test package for upgrade test",
+  "unity": "2020.1",
+  "dependencies": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "KidsStar System Development Team",
+    "email": "system@kidsstar.co.jp",
+    "url": "https://www.kidsstar.co.jp"
+  }
+}
